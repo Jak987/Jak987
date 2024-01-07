@@ -1,13 +1,1 @@
-- 👋 Hi, I’m @Jak987
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-
-
-
-Jak987/Jak987 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋Create a 3D illustration of an animated character setting casually on the top of social media logo "Instagram".the character must wear causal modern clothes such jeans jacket and sneakers shoes.The background of the image is the social media profile page with a username "_harshal__goyal9" and a profile picture that matches the animated character.Make sure the text is not misspelled
